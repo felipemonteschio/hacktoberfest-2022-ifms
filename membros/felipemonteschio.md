@@ -17,3 +17,10 @@ GTA V
 The Crew
 Forza Horizon
 Valorant
+
+#Lugares onde ja viajei
+
+Brasilia DF
+Campo Grande MS
+Rio de Janeiro RJ
+Cabo Frio RJ
